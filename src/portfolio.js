@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Kaushik Manivannan",
-  logo_name: "KaushikManivannan",
+  logo_name: "Kaushik Manivannan",
   nickname: "kauieee",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",

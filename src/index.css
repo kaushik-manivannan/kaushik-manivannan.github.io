@@ -40,6 +40,11 @@
   src: local("Google Sans Regular"),
     url("./assests/fonts/GoogleSans-Regular.ttf") format("woff");
 }
+@font-face {
+  font-family: "Sacramento Regular";
+  src: local("Sacramento Regular"),
+    url("./assests/fonts/Sacramento-Regular.ttf") format("woff");
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
