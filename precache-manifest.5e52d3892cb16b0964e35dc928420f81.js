@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6ecfeb30ebe82f49cfc54e75df0ebcc",
+    "revision": "06cb976f6a2b796ab967a1abe6d18a4b",
     "url": "/index.html"
   },
   {
-    "revision": "9e8097c28cc6be38c176",
-    "url": "/static/css/main.cbce6e89.chunk.css"
+    "revision": "90b1d985c03cc65f59a6",
+    "url": "/static/css/main.6248a78e.chunk.css"
   },
   {
     "revision": "d9cab20a998bb2591b53",
     "url": "/static/js/2.5d082f1a.chunk.js"
   },
   {
-    "revision": "9e8097c28cc6be38c176",
-    "url": "/static/js/main.3ada47cf.chunk.js"
+    "revision": "90b1d985c03cc65f59a6",
+    "url": "/static/js/main.46122dbd.chunk.js"
   },
   {
     "revision": "45f0cc8ed22410a018c8",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "0c8e69ac621ffbdfdb997bef9b5aa312",
+    "url": "/static/media/Sacramento-Regular.0c8e69ac.ttf"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
