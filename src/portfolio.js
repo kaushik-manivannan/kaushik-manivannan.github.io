@@ -370,7 +370,7 @@ const experience = {
           company: "Tata Consultancy Services",
           company_url: "https://www.tcs.com/",
           logo_path: "tcs.png",
-          duration: "Apr 2021 - Feb 2023",
+          duration: "Aug 2021 - Feb 2023",
           location: "Chennai, India",
           description:
             "- Spearheaded the front-end team in developing an SPA utilizing Angular, revolutionizing the customer verification process for an insurance firm by replacing their traditional call center process with a streamlined digital system\n- Integrated Tensorflow-powered AI facial recognition and MediaRecorder Web API for video capture\n- Streamlined user verification process, slashing average confirmation times from 10+ minutes to just 3 minutes (300% faster) by implementing self-service tools, dramatically improving customer experience\n- Engineered user accessibility, cross-browser compatibility and OTP validation to ensure seamless user experience\n- Drove 25% increase in organic traffic through performance upgrades focused on boosting accessibility, memory utilization, and code refactoring\n- Orchestrated the growth and development of a team of 5 junior developers, delivering 20% increased productivity\n- Promoted Agile development methodologies, pair programming and personalized code review sessions within the team, leading to accelerated project completion timelines and an overall reduction in bugs",
