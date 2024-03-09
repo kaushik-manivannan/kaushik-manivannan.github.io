@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8968251.chunk.css",
-    "main.js": "/static/js/main.cf0db2be.chunk.js",
-    "main.js.map": "/static/js/main.cf0db2be.chunk.js.map",
+    "main.css": "/static/css/main.ae1272e9.chunk.css",
+    "main.js": "/static/js/main.c09a7e46.chunk.js",
+    "main.js.map": "/static/js/main.c09a7e46.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e2c44f4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e2c44f4c.js.map",
     "static/js/2.7d3b700a.chunk.js": "/static/js/2.7d3b700a.chunk.js",
     "static/js/2.7d3b700a.chunk.js.map": "/static/js/2.7d3b700a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b20a3d1958cf578fef36692e15062768.js": "/precache-manifest.b20a3d1958cf578fef36692e15062768.js",
+    "precache-manifest.f9abb257260721a9b627c3a4158c8a2c.js": "/precache-manifest.f9abb257260721a9b627c3a4158c8a2c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c8968251.chunk.css.map": "/static/css/main.c8968251.chunk.css.map",
+    "static/css/main.ae1272e9.chunk.css.map": "/static/css/main.ae1272e9.chunk.css.map",
     "static/media/index.css": "/static/media/Sacramento-Regular.0c8e69ac.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -34,8 +34,8 @@
     "static/media/nyu.png": "/static/media/nyu.9dbfff36.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/profilepic.png": "/static/media/profilepic.17da6392.png",
-    "static/media/profilepiclandscape.png": "/static/media/profilepiclandscape.0f4f6d1e.png",
     "static/media/profilepiclandscape.jpg": "/static/media/profilepiclandscape.abe5f924.jpg",
+    "static/media/profilepiclandscape.png": "/static/media/profilepiclandscape.c28fce21.png",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/ssn.png": "/static/media/ssn.610cac96.png",
@@ -49,7 +49,7 @@
   "entrypoints": [
     "static/js/runtime-main.e2c44f4c.js",
     "static/js/2.7d3b700a.chunk.js",
-    "static/css/main.c8968251.chunk.css",
-    "static/js/main.cf0db2be.chunk.js"
+    "static/css/main.ae1272e9.chunk.css",
+    "static/js/main.c09a7e46.chunk.js"
   ]
 }
