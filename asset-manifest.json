@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.76e3105f.chunk.css",
-    "main.js": "/static/js/main.64f3c620.chunk.js",
-    "main.js.map": "/static/js/main.64f3c620.chunk.js.map",
+    "main.css": "/static/css/main.c8968251.chunk.css",
+    "main.js": "/static/js/main.cf0db2be.chunk.js",
+    "main.js.map": "/static/js/main.cf0db2be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e2c44f4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e2c44f4c.js.map",
-    "static/js/2.5d082f1a.chunk.js": "/static/js/2.5d082f1a.chunk.js",
-    "static/js/2.5d082f1a.chunk.js.map": "/static/js/2.5d082f1a.chunk.js.map",
+    "static/js/2.7d3b700a.chunk.js": "/static/js/2.7d3b700a.chunk.js",
+    "static/js/2.7d3b700a.chunk.js.map": "/static/js/2.7d3b700a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c3b178d0e4a814b8f78bdebf3a16fce.js": "/precache-manifest.8c3b178d0e4a814b8f78bdebf3a16fce.js",
+    "precache-manifest.b20a3d1958cf578fef36692e15062768.js": "/precache-manifest.b20a3d1958cf578fef36692e15062768.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.76e3105f.chunk.css.map": "/static/css/main.76e3105f.chunk.css.map",
+    "static/css/main.c8968251.chunk.css.map": "/static/css/main.c8968251.chunk.css.map",
     "static/media/index.css": "/static/media/Sacramento-Regular.0c8e69ac.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/au.png": "/static/media/au.d589cd72.png",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codecademy.svg": "/static/media/codecademy.5bd8895e.svg",
@@ -33,6 +34,8 @@
     "static/media/nyu.png": "/static/media/nyu.9dbfff36.png",
     "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/profilepic.png": "/static/media/profilepic.17da6392.png",
+    "static/media/profilepiclandscape.png": "/static/media/profilepiclandscape.0f4f6d1e.png",
+    "static/media/profilepiclandscape.jpg": "/static/media/profilepiclandscape.abe5f924.jpg",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/ssn.png": "/static/media/ssn.610cac96.png",
@@ -45,8 +48,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e2c44f4c.js",
-    "static/js/2.5d082f1a.chunk.js",
-    "static/css/main.76e3105f.chunk.css",
-    "static/js/main.64f3c620.chunk.js"
+    "static/js/2.7d3b700a.chunk.js",
+    "static/css/main.c8968251.chunk.css",
+    "static/js/main.cf0db2be.chunk.js"
   ]
 }
